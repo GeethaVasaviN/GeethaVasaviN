@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/6d8a9265-e066-43f4-85ba-7f9bdaf22239)# 👋 Hi there, I'm Geetha Vasavi!
+# 👋 Hi there, I'm Geetha Vasavi!
 
 🚀 **Aspiring Python Developer** | 🛠️ **Backend Development Enthusiast** | 📊 **Data Analytics Learner**
 

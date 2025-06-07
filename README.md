@@ -2,7 +2,7 @@
 
 🚀 **Aspiring Python Developer** | 🛠️ **Backend Development Enthusiast** | 📊 **Data Analytics Learner**
 
-I'm currently doing my  as a **Python Intern**, and actively seeking a **full-time opportunity** in **Backend Development**, **Python Programming**, or **Data Analytics**. I enjoy building clean, efficient, and data-driven solutions while constantly expanding my technical skills.
+I'm currently doing as a **Data Science Intern**, and actively seeking a **full-time opportunity** in **Backend Development**, **Python Programming**, or **Data Analytics**. I enjoy building clean, efficient, and data-driven solutions while constantly expanding my technical skills.
 
 ---
 

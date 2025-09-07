@@ -41,7 +41,7 @@
 ## 💼 Experience  
 
 **🔹 Data Science Intern – Wolfeag Consultancy**  
-*Jun 2024 – Sep 2024*  
+*Jun 2025 – Sep 2025*  
 - Built an **interactive Sales Performance Dashboard (Power BI)**.  
 - Cleaned & transformed data with **Power Query** for accuracy.  
 - Designed **KPIs, charts, and slicers** for insights.  

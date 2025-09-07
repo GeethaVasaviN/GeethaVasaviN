@@ -1,79 +1,111 @@
-# 👋 Hi there, I'm Geetha Vasavi!
+👋 Hi there, I'm Geetha Vasavi
 
-🚀 **Aspiring Python Developer** | 🛠️ **Backend Development Enthusiast** | 📊 **Data Analytics Learner**
+🚀 Aspiring Data Scientist | Data Analyst | BI Developer
+💡 Passionate about data-driven insights, visualization, and machine learning
+🌍 Actively looking for a full-time remote opportunity in Data Science, Data Analytics, or BI (Power BI / Tableau)
 
-I'm currently doing as a **Data Science Intern**, and actively seeking a **full-time opportunity** in **Backend Development**, **Python Programming**, or **Data Analytics**. I enjoy building clean, efficient, and data-driven solutions while constantly expanding my technical skills.
+🧠 About Me
 
----
+🎯 Strong interest in data analysis, business intelligence, and machine learning
 
-## 🧠 About Me
+📊 Skilled at transforming raw data into actionable insights
 
-- 🎯 Passionate about backend systems and automation
-- 📚 Lifelong learner in data analytics and emerging tech
-- 🤝 Eager to contribute to real-world projects and cross-functional teams
+⚡ Enthusiastic about building interactive dashboards and predictive models
 
----
+🌐 Open to remote opportunities across diverse industries
 
-## 🔧 Technical Skills
+🔧 Technical Skills
 
-**Languages**:  
-Python,Java,JavaScript,HTML,CSs,SQL
+💻 Programming & Data Handling:
+Python, Pandas, NumPy, PySpark, SQL
 
-**Tools & Platforms**:  
-Git ,Microsoft Excel, MS Office  
+🌐 Web & Scripting:
+HTML, CSS, JavaScript
 
-**Core Areas**:  
-- 🔹 Backend Development  
-- 🔹 Web Development  
-- 🔹 Data Analytics
+📊 Data Visualization & BI Tools:
+Power BI, Tableau, Matplotlib, Seaborn
 
----
+🤖 Emerging Tech:
+Generative AI, ChatGPT Applications
 
-## 💼 Experience
+📌 Core Areas:
 
-**🔹 Python Full Stack Intern – Brain-O-Vision**  
-*Feb 2024 – Apr 2024*  
-Developed full-stack web components using Python and enhanced backend logic with clean, modular code.
+📊 Data Analysis & Visualization
 
-**🔹 Web Development Intern – Teach Nook**  
-*Dec 2023 – Jan 2024*  
-Built responsive front-end features and static websites using HTML, CSS, and JavaScript.
+🤖 Machine Learning (Basics)
 
----
+📈 Business Intelligence Reporting
 
-## 🌟 Projects
+🔹 Backend Development (Python)
 
-**🌦️ Weather App**  
-Real-time weather dashboard using OpenWeather API & JavaScript  
-➡️ *Displays live temperature, weather conditions, and location-based info*
+🧩 Generative AI Applications
 
-**🇮🇳 Indian Tourism Website**  
-Responsive static website built using HTML & CSS  
-➡️ *Showcases beautiful Indian destinations and travel insights*
+💼 Experience
 
----
+🔹 Data Science Intern – Wolfeag Consultancy
+Jun 2024 – Sep 2024
 
-## 🎓 Education & Certifications
+Built an interactive Sales Performance Dashboard (Power BI) to analyze revenue, growth, regional performance, and product-wise sales.
 
-🎓 **MBA (Finance)** – *Andhra University* – *Ongoing*  
-🎓 **B.Sc. Computer Science** – *A.S.N Degree College* (2021–2024)
+Cleaned and transformed raw data using Power Query for consistency and accuracy.
 
-**Certifications**  
-- 📊 *Data Analytics* – Simplilearn  
-- 📈 *Data Visualization (Virtual Experience)* – Forage  
-- 🌐 *Web Development for Beginners* – Simplilearn  
-- 🤖 *Career Essentials in AI* – Microsoft & LinkedIn  
+Designed KPIs, line charts, bar graphs, and slicers for easy filtering and insights.
 
----
+Automated data refresh for real-time updates, reducing manual effort.
 
-## 📫 Let’s Connect!
+Helped stakeholders identify growth opportunities and track top-performing products.
 
-📧 Email: [nalam.geethavasavi@gmail.com](mailto:nalam.geethavasavi@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-link-here) *(Add your actual LinkedIn URL)*
+🔹 Python Full Stack Intern – Brain-O-Vision
+Feb 2024 – Apr 2024
 
----
+Developed full-stack web components using Python.
 
-🌟 **Open to full-time opportunities** in Python, backend development, or analytics. Let’s build something impactful together!
+Enhanced backend logic with clean, modular code.
 
+🔹 Web Development Intern – Teach Nook
+Dec 2023 – Jan 2024
 
+Built responsive front-end features and static websites using HTML, CSS, JavaScript.
 
+🌟 Projects
+
+📊 Sales Performance Dashboard (Power BI)
+
+Analyzed and visualized sales trends, KPIs, and product performance.
+
+Automated refresh for dynamic insights.
+
+📈 Data Visualization Projects (Python)
+
+Built Matplotlib & Seaborn dashboards for trend analysis and insights.
+
+🌦️ Weather App
+
+Real-time weather dashboard using OpenWeather API & JavaScript.
+
+🇮🇳 Indian Tourism Website
+
+Responsive static website showcasing Indian destinations with HTML & CSS.
+
+🎓 Education & Certifications
+
+🎓 MBA (Finance) – Andhra University – Ongoing
+🎓 B.Sc. Computer Science – A.S.N Degree College (2021–2024)
+
+📜 Certifications
+
+🤖 Mastering Generative AI and ChatGPT – GeeksforGeeks (Recent)
+
+📊 Data Analytics – Simplilearn
+
+📈 Data Visualization (Virtual Experience) – Forage
+
+🌐 Web Development for Beginners – Simplilearn
+
+🤖 Career Essentials in AI – Microsoft & LinkedIn
+
+📫 Let’s Connect!
+
+🔗 LinkedIn
+ | 💻 GitHub
+ | 📧 Email

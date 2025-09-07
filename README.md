@@ -1,111 +1,89 @@
-👋 Hi there, I'm Geetha Vasavi
+# 👋 Hi there, I'm **Geetha Vasavi**  
 
-🚀 Aspiring Data Scientist | Data Analyst | BI Developer
-💡 Passionate about data-driven insights, visualization, and machine learning
-🌍 Actively looking for a full-time remote opportunity in Data Science, Data Analytics, or BI (Power BI / Tableau)
+🚀 **Aspiring Data Scientist | Data Analyst | BI Developer**  
+💡 Passionate about **data-driven insights, visualization, and machine learning**  
+🌍 Actively looking for a **full-time remote opportunity** in *Data Science, Data Analytics, or BI (Power BI / Tableau)*  
 
-🧠 About Me
+---
 
-🎯 Strong interest in data analysis, business intelligence, and machine learning
+## 🧠 About Me  
 
-📊 Skilled at transforming raw data into actionable insights
+- 🎯 Interested in **Data Analysis, Business Intelligence, and Machine Learning**  
+- 📊 Skilled at turning **raw data into actionable insights**  
+- ⚡ Love building **interactive dashboards & predictive models**  
+- 🌐 Open to **remote opportunities** across industries  
 
-⚡ Enthusiastic about building interactive dashboards and predictive models
+---
 
-🌐 Open to remote opportunities across diverse industries
+## 🔧 Technical Skills  
 
-🔧 Technical Skills
+**💻 Programming & Data Handling**  
+`Python` | `Pandas` | `NumPy` | `PySpark` | `SQL`  
 
-💻 Programming & Data Handling:
-Python, Pandas, NumPy, PySpark, SQL
+**🌐 Web & Scripting**  
+`HTML` | `CSS` | `JavaScript`  
 
-🌐 Web & Scripting:
-HTML, CSS, JavaScript
+**📊 Data Visualization & BI Tools**  
+`Power BI` | `Tableau` | `Matplotlib` | `Seaborn`  
 
-📊 Data Visualization & BI Tools:
-Power BI, Tableau, Matplotlib, Seaborn
+**🤖 Emerging Tech**  
+`Generative AI` | `ChatGPT Applications`  
 
-🤖 Emerging Tech:
-Generative AI, ChatGPT Applications
+**📌 Core Areas**  
+- 📊 **Data Analysis & Visualization**  
+- 🤖 **Machine Learning (Basics)**  
+- 📈 **Business Intelligence Reporting**  
+- 🔹 **Backend Development (Python)**  
+- 🧩 **Generative AI Applications**  
 
-📌 Core Areas:
+---
 
-📊 Data Analysis & Visualization
+## 💼 Experience  
 
-🤖 Machine Learning (Basics)
+**🔹 Data Science Intern – Wolfeag Consultancy**  
+*Jun 2024 – Sep 2024*  
+- Built an **interactive Sales Performance Dashboard (Power BI)**.  
+- Cleaned & transformed data with **Power Query** for accuracy.  
+- Designed **KPIs, charts, and slicers** for insights.  
+- Automated data refresh for **real-time reporting**.  
 
-📈 Business Intelligence Reporting
+**🔹 Python Full Stack Intern – Brain-O-Vision**  
+*Feb 2024 – Apr 2024*  
+- Developed **full-stack components** using Python.  
+- Improved backend logic with **modular, clean code**.  
 
-🔹 Backend Development (Python)
+**🔹 Web Development Intern – Teach Nook**  
+*Dec 2023 – Jan 2024*  
+- Built **responsive websites** using HTML, CSS, and JavaScript.  
 
-🧩 Generative AI Applications
+---
 
-💼 Experience
+## 🌟 Projects  
 
-🔹 Data Science Intern – Wolfeag Consultancy
-Jun 2024 – Sep 2024
+- **📊 Sales Performance Dashboard (Power BI)** – Sales KPIs, growth trends, automation  
+- **📈 Data Visualization Projects (Python)** – Trend analysis with Matplotlib & Seaborn  
+- **🌦️ Weather App** – Real-time weather insights with API & JavaScript  
+- **🇮🇳 Indian Tourism Website** – Responsive static site with HTML & CSS  
 
-Built an interactive Sales Performance Dashboard (Power BI) to analyze revenue, growth, regional performance, and product-wise sales.
+---
 
-Cleaned and transformed raw data using Power Query for consistency and accuracy.
+## 🎓 Education & Certifications  
 
-Designed KPIs, line charts, bar graphs, and slicers for easy filtering and insights.
+🎓 **MBA (Finance)** – *Andhra University* – *Ongoing*  
+🎓 **B.Sc. Computer Science** – *A.S.N Degree College* (2021–2024)  
 
-Automated data refresh for real-time updates, reducing manual effort.
+**📜 Certifications**  
+- 🤖 **Mastering Generative AI and ChatGPT** – GeeksforGeeks *(Recent)*  
+- 📊 **Data Analytics** – Simplilearn  
+- 📈 **Data Visualization (Virtual Experience)** – Forage  
+- 🌐 **Web Development for Beginners** – Simplilearn  
+- 🤖 **Career Essentials in AI** – Microsoft & LinkedIn  
 
-Helped stakeholders identify growth opportunities and track top-performing products.
+---
 
-🔹 Python Full Stack Intern – Brain-O-Vision
-Feb 2024 – Apr 2024
+## 📫 Let’s Connect  
 
-Developed full-stack web components using Python.
+🔗 [**LinkedIn**](#) | 💻 [**GitHub**](#) | 📧 [**Email**](#)  
 
-Enhanced backend logic with clean, modular code.
+---
 
-🔹 Web Development Intern – Teach Nook
-Dec 2023 – Jan 2024
-
-Built responsive front-end features and static websites using HTML, CSS, JavaScript.
-
-🌟 Projects
-
-📊 Sales Performance Dashboard (Power BI)
-
-Analyzed and visualized sales trends, KPIs, and product performance.
-
-Automated refresh for dynamic insights.
-
-📈 Data Visualization Projects (Python)
-
-Built Matplotlib & Seaborn dashboards for trend analysis and insights.
-
-🌦️ Weather App
-
-Real-time weather dashboard using OpenWeather API & JavaScript.
-
-🇮🇳 Indian Tourism Website
-
-Responsive static website showcasing Indian destinations with HTML & CSS.
-
-🎓 Education & Certifications
-
-🎓 MBA (Finance) – Andhra University – Ongoing
-🎓 B.Sc. Computer Science – A.S.N Degree College (2021–2024)
-
-📜 Certifications
-
-🤖 Mastering Generative AI and ChatGPT – GeeksforGeeks (Recent)
-
-📊 Data Analytics – Simplilearn
-
-📈 Data Visualization (Virtual Experience) – Forage
-
-🌐 Web Development for Beginners – Simplilearn
-
-🤖 Career Essentials in AI – Microsoft & LinkedIn
-
-📫 Let’s Connect!
-
-🔗 LinkedIn
- | 💻 GitHub
- | 📧 Email

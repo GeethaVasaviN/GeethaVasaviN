@@ -1,85 +1,59 @@
-# 👋 Hi there, I'm **Geetha Vasavi**  
+👋 Hi, I'm Geetha Vasavi N.
 
-🚀 **Aspiring Data Scientist | Data Analyst | BI Developer**  
-💡 Passionate about **data-driven insights, visualization, and machine learning**  
-🌍 Actively looking for a **full-time remote opportunity** in *Data Science, Data Analytics, or BI (Power BI / Tableau)*  
+💡 Aspiring Data Analyst | Business Analyst | Data Scientist
+🎯 Passionate about turning data into actionable insights
+📊 Skilled in Python, SQL, Power BI, Tableau, and Machine Learning
 
----
+🚀 About Me
 
-## 🧠 About Me  
+🎓 Currently pursuing MBA (Finance) at Andhra University
 
-- 🎯 Interested in **Data Analysis, Business Intelligence, and Machine Learning**  
-- 📊 Skilled at turning **raw data into actionable insights**  
-- ⚡ Love building **interactive dashboards & predictive models**  
-- 🌐 Open to **remote opportunities** across industries  
+🎓 Graduated in B.Sc. Computer Science from Adikavi Nannaya University
 
----
+💼 Completed internships in Python Full-Stack and Web Development
 
-## 🔧 Technical Skills  
+🛠️ Built end-to-end Data Analytics & ML projects
 
-**💻 Programming & Data Handling**  
-`Python` | `Pandas` | `NumPy` | `PySpark` | `SQL`  
+🌍 Actively looking for Remote / Entry-level Data roles
 
-**🌐 Web & Scripting**  
-`HTML` | `CSS` | `JavaScript`  
+🔑 Skills
 
-**📊 Data Visualization & BI Tools**  
-`Power BI` | `Tableau` | `Matplotlib` | `Seaborn`  
+Programming & ML: Python (Pandas, NumPy, Scikit-learn, XGBoost, PySpark), SQL
 
-**🤖 Emerging Tech**  
-`Generative AI` | `ChatGPT Applications`  
+Data Visualization: Power BI, Tableau, Matplotlib, Seaborn
 
-**📌 Core Areas**  
-- 📊 **Data Analysis & Visualization**  
-- 🤖 **Machine Learning (Basics)**  
-- 📈 **Business Intelligence Reporting**  
-- 🔹 **Backend Development (Python)**  
-- 🧩 **Generative AI Applications**  
+Web & Tools: Streamlit, Django, HTML, CSS, JavaScript, Git, Excel, MS Office
 
----
+Concepts: Data Cleaning, EDA, Predictive Modeling, ETL, Business Intelligence
 
-## 💼 Experience  
+📂 Featured Projects
+📊 Superstore Sales & Profit Dashboard
 
-**🔹 Data Science Intern – Wolfeag Consultancy**  
-*Jun 2025 – Sep 2025*  
-- Built an **interactive Sales Performance Dashboard (Power BI)**.  
-- Cleaned & transformed data with **Power Query** for accuracy.  
-- Designed **KPIs, charts, and slicers** for insights.  
-- Automated data refresh for **real-time reporting**.  
+Interactive Power BI dashboard analyzing Sales, Profit, and Customers across regions and categories.
 
-**🔹 Python Full Stack Intern – Brain-O-Vision**  
-*Feb 2024 – Apr 2024*  
-- Developed **full-stack components** using Python.  
-- Improved backend logic with **modular, clean code**.  
+KPIs: Total Sales, Profit, Orders, Profit Margin
 
-**🔹 Web Development Intern – Teach Nook**  
-*Dec 2023 – Jan 2024*  
-- Built **responsive websites** using HTML, CSS, and JavaScript.  
+Visuals: Sales Trends, Profit by Region, Top Customers
 
----
+Tools: Power BI, DAX, Power Query
 
-## 🌟 Projects  
+🤖 Customer Churn Prediction App
 
-- **📊 Sales Performance Dashboard (Power BI)** – Sales KPIs, growth trends, automation  
-- **📈 Data Visualization Projects (Python)** – Trend analysis with Matplotlib & Seaborn  
-- **🌦️ Weather App** – Real-time weather insights with API & JavaScript  
-- **🇮🇳 Indian Tourism Website** – Responsive static site with HTML & CSS  
+Machine learning app to predict customer churn with 85% accuracy.
 
----
+ML model using Scikit-learn & XGBoost
 
-## 🎓 Education & Certifications  
+Interactive Streamlit app for real-time predictions
 
-🎓 **MBA (Finance)** – *Andhra University* – *Ongoing*  
-🎓 **B.Sc. Computer Science** – *A.S.N Degree College* (2021–2024)  
+Tools: Python, Pandas, NumPy, Scikit-learn, XGBoost, Streamlit, Joblib
 
-**📜 Certifications**  
-- 🤖 **Mastering Generative AI and ChatGPT** – GeeksforGeeks *(Recent)*  
-- 📊 **Data Analytics** – Simplilearn  
-- 📈 **Data Visualization (Virtual Experience)** – Forage  
-- 🌐 **Web Development for Beginners** – Simplilearn  
-- 🤖 **Career Essentials in AI** – Microsoft & LinkedIn  
+🏆 Certifications
 
----
+Mastering Generative AI and ChatGPT – GeeksforGeeks
+
+Career Essentials in Generative AI – Microsoft & LinkedIn
+
+Data Visualisation: Empowering Business with Effective Insights – Tata Forage
 
 ## 📫 Let’s Connect  
 

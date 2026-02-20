@@ -58,7 +58,7 @@ Data Visualisation: Empowering Business with Effective Insights – Tata Forage
 ## 📫 Let’s Connect  
 
 🔗 [**LinkedIn**](https://www.linkedin.com/in/geetha-vasavi-496a12255?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-📧 [**Gmail**](nalam.geethavasavi@gmail.com)  
+
 
 ---
 
